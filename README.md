@@ -1,2 +1,3 @@
 # OS-Scheduler_Project
 This was a school project where we add to simulate different OS scheduling algorithms. 
+ The scheduler algorithms implemented in this assignment include: first come firs serve, shortest job first, and multi-level feedback queue. The program outputs the current state of the ready list, IO queue, if current process execution is finish and then a table which shows response time, turnaround time, wait time for each CPU process, and then will display total runtime, average wait time, average turnaround, average response, and total CPU utilization. Note: this is a simulator meant to mimic process control block of an OS, not an actual PCB.
